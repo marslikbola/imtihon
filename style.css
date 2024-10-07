@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+  max-width: 1440px;
+  margin: 0 auto;
+ 
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 50px ;
+    justify-content: center;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.one section container{
+    justify-content: center;
+}
+img{
+    background-image: repeat;
+}
+
+.two section{
+    display:flex ;
+    justify-content: center;
+    gap: 40px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+ 
+p{
+    display: flex;
+    align-items: center;
+}
